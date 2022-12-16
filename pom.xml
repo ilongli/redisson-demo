@@ -31,11 +31,19 @@
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.redisson/redisson -->
-        <dependency>
+<!--        <dependency>
             <groupId>org.redisson</groupId>
             <artifactId>redisson</artifactId>
             <version>3.18.1</version>
+        </dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/org.redisson/redisson-spring-boot-starter -->
+        <dependency>
+            <groupId>org.redisson</groupId>
+            <artifactId>redisson-spring-boot-starter</artifactId>
+            <version>3.18.1</version>
         </dependency>
+
 
     </dependencies>
 
